@@ -1,0 +1,2 @@
+# statistic
+basic notes
